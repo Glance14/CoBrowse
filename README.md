@@ -2,7 +2,7 @@
 Technical Deep Dive
 <html>
   <head>
-  <title>Glance Cobrowse Cross Domain Example #1</title>
+  <title>This is Glance Cobrowse Cross Domain Example #1</title>
   <script id="glance-cobrowse" type="text/javascript" src="https://www.glancecdn.net/cobrowse/CobrowseJS.ashx?group=21605&site=production" data-groupid="21605" data-site="production" charset="UTF-8"></script>
 </head>
   <body>
